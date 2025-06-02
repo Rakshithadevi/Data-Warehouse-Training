@@ -1,0 +1,7 @@
+_id,movement_id,product_id,warehouse_id,supplier,quantity,movement_type,movement_date,reason
+683d5392d2229ecb9a6c4bd6,1,1,1,ABC Suppliers,10,IN,2025-06-02T00:00:00Z,Initial stock from supplier
+683d5392d2229ecb9a6c4bd7,2,2,2,Global Traders,30,IN,2025-06-02T00:00:00Z,Bulk order supply
+683d5392d2229ecb9a6c4bd8,3,3,1,SupplyCo Ltd,20,IN,2025-06-02T00:00:00Z,Restock
+683d5392d2229ecb9a6c4bd9,4,4,3,SupplyCo Ltd,15,IN,2025-06-02T00:00:00Z,Monthly purchase
+683d5392d2229ecb9a6c4bda,5,5,4,SupplyCo Ltd,8,OUT,2025-06-02T00:00:00Z,New shipment
+683d5392d2229ecb9a6c4bdb,6,6,1,TechLine Distributors,25,IN,2025-06-02T00:00:00Z,Utility restock
