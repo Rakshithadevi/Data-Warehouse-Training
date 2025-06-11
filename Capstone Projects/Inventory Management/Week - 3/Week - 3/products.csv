@@ -1,0 +1,11 @@
+product_id,name,category,quantity_in_stock,reorder_level,price
+1,Notebook,Stationery,100,20,45.5
+2,Pen,Stationery,300,50,10.0
+3,Mouse,Electronics,50,15,350.0
+4,Keyboard,Electronics,30,10,550.0
+5,USB Drive,Electronics,70,25,250.0
+6,Office Chair,Furniture,60,10,120.0
+7,Table,Furniture,20,5,750.0
+8,File Folder,Stationery,80,20,15.0
+9,Charger,Electronics,25,10,500.0
+10,Sticky Notes,Stationery,200,50,5.0
