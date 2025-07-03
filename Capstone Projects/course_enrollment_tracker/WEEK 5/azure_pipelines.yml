@@ -1,0 +1,31 @@
+trigger:
+  schedule:
+    - cron: "0 8 * * 1"  # Runs every Monday at 8 AM UTC
+      displayName: Weekly Monday Run
+      branches:
+        include:
+          - main
+      always: true
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+  - task: UsePythonVersion@0
+    inputs:
+      versionSpec: '3.10'
+
+  - script: |
+      pip install pandas
+    displayName: 'Install pandas'
+
+  - script: |
+      python check_progress.py
+    displayName: 'Run Weekly Progress Check'
+
+  - task: PublishBuildArtifacts@1
+    inputs:
+      PathtoPublish: 'weekly_progress_report.csv'
+      ArtifactName: 'WeeklyProgressReport'
+      publishLocation: 'Container'
+    displayName: 'Publish Weekly Progress Report'

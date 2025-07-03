@@ -1,0 +1,130 @@
+student_id,student_name,course_id,course_name,enrollment_date,progress
+S92,Chris Allen,C103,Blockchain Basics,2024-01-25,43
+S51,Anna Wilson,C107,Big Data Analytics,2024-05-27,23
+S15,Sarah Taylor,C108,Mobile App Development,2024-01-31,5
+S51,Anna Wilson,C110,Artificial Intelligence,2024-04-19,49
+S57,David Taylor,C109,Cybersecurity,2024-01-11,6
+S78,Sarah Brown,C101,Blockchain Basics,2024-05-03,18
+S2,Chris Smith,C104,Blockchain Basics,2024-01-12,26
+S75,John Smith,C105,Python Programming,2024-05-17,34
+S74,Emily Smith,C102,Web Development,2024-05-26,8
+S21,John Clark,C107,Big Data Analytics,2024-04-21,43
+S90,Chris Taylor,C102,Web Development,2024-03-06,3
+S100,John Clark,C103,Blockchain Basics,2024-01-20,25
+S38,Sarah Taylor,C110,Artificial Intelligence,2024-04-09,15
+S1,Anna Young,C108,Mobile App Development,2024-05-04,20
+S13,Tom Allen,C102,Web Development,2024-05-20,5
+S47,Sarah Wilson,C103,Blockchain Basics,2024-05-10,33
+S12,Chris Lee,C101,Blockchain Basics,2024-04-30,30
+S35,Anna Allen,C106,Web Development,2024-03-19,26
+S20,Laura Taylor,C109,Cybersecurity,2024-03-30,35
+S84,Emily Lee,C105,Python Programming,2024-04-20,32
+S2,Chris Smith,C104,Blockchain Basics,2024-01-22,26
+S75,John Smith,C102,Web Development,2024-01-30,30
+S90,Chris Taylor,C103,Blockchain Basics,2024-01-10,43
+S13,Tom Allen,C106,Web Development,2024-04-20,14
+S51,Anna Wilson,C104,Blockchain Basics,2024-03-07,45
+S97,Anna Johnson,C108,Mobile App Development,2024-05-11,22
+S19,Tom Taylor,C110,Artificial Intelligence,2024-01-18,49
+S7,Jane Brown,C103,Blockchain Basics,2024-02-21,13
+S99,John Allen,C109,Cybersecurity,2024-03-23,48
+S12,Chris Lee,C109,Cybersecurity,2024-02-27,2
+S1,Anna Young,C101,Blockchain Basics,2024-03-22,4
+S13,Tom Allen,C106,Web Development,2024-01-17,14
+S77,John Taylor,C108,Mobile App Development,2024-03-12,48
+S78,Sarah Brown,C101,Blockchain Basics,2024-01-19,18
+S64,David Clark,C102,Web Development,2024-03-14,36
+S97,Anna Johnson,C101,Blockchain Basics,2024-05-21,30
+S67,John Taylor,C107,Big Data Analytics,2024-04-27,3
+S22,Alex Hall,C109,Cybersecurity,2024-03-26,3
+S2,Chris Smith,C110,Artificial Intelligence,2024-05-05,37
+S6,Anna Johnson,C110,Artificial Intelligence,2024-03-24,9
+S70,Alex Wilson,C108,Mobile App Development,2024-04-04,17
+S36,Jane Taylor,C109,Cybersecurity,2024-02-12,42
+S62,Anna Wilson,C106,Web Development,2024-01-03,0
+S32,David Clark,C104,Blockchain Basics,2024-05-30,11
+S32,David Clark,C107,Big Data Analytics,2024-01-24,42
+S56,John Clark,C108,Mobile App Development,2024-05-01,45
+S49,John Brown,C108,Mobile App Development,2024-02-27,26
+S57,David Taylor,C109,Cybersecurity,2024-03-20,6
+S2,Chris Smith,C102,Web Development,2024-01-14,40
+S70,Alex Wilson,C101,Blockchain Basics,2024-03-23,22
+S36,Jane Taylor,C108,Mobile App Development,2024-05-18,9
+S67,John Taylor,C102,Web Development,2024-04-02,13
+S58,John Smith,C104,Blockchain Basics,2024-03-26,35
+S98,Alex Clark,C105,Python Programming,2024-05-26,8
+S16,John Hall,C109,Cybersecurity,2024-04-05,48
+S10,Chris Young,C105,Python Programming,2024-05-29,12
+S15,Sarah Taylor,C105,Python Programming,2024-02-02,8
+S18,David Johnson,C104,Blockchain Basics,2024-05-07,30
+S79,John Young,C110,Artificial Intelligence,2024-05-25,4
+S35,Anna Allen,C105,Python Programming,2024-03-20,15
+S47,Sarah Wilson,C103,Blockchain Basics,2024-05-07,33
+S32,David Clark,C107,Big Data Analytics,2024-03-19,42
+S3,Tom Lee,C109,Cybersecurity,2024-04-14,8
+S40,Sarah Wilson,C110,Artificial Intelligence,2024-02-19,40
+S11,Jane Allen,C102,Web Development,2024-03-20,12
+S99,John Allen,C107,Big Data Analytics,2024-01-24,40
+S8,Chris Hall,C107,Big Data Analytics,2024-01-16,39
+S15,Sarah Taylor,C105,Python Programming,2024-04-25,8
+S57,David Taylor,C106,Web Development,2024-05-04,11
+S19,Tom Taylor,C106,Web Development,2024-03-24,21
+S51,Anna Wilson,C103,Blockchain Basics,2024-01-31,20
+S9,Alex Brown,C103,Blockchain Basics,2024-03-12,27
+S11,Jane Allen,C110,Artificial Intelligence,2024-04-24,33
+S46,Emily Taylor,C104,Blockchain Basics,2024-01-31,34
+S79,John Young,C109,Cybersecurity,2024-03-12,43
+S77,John Taylor,C103,Blockchain Basics,2024-02-01,34
+S21,John Clark,C110,Artificial Intelligence,2024-03-18,14
+S48,Sarah Taylor,C108,Mobile App Development,2024-01-08,10
+S31,Tom Smith,C108,Mobile App Development,2024-02-20,39
+S51,Anna Wilson,C107,Big Data Analytics,2024-04-10,23
+S48,Sarah Taylor,C107,Big Data Analytics,2024-01-08,46
+S9,Alex Brown,C108,Mobile App Development,2024-05-26,13
+S53,Chris Hall,C108,Mobile App Development,2024-03-22,15
+S76,Alex Taylor,C102,Web Development,2024-05-06,4
+S77,John Taylor,C107,Big Data Analytics,2024-02-06,47
+S45,Laura Allen,C105,Python Programming,2024-03-22,44
+S77,John Taylor,C104,Blockchain Basics,2024-03-30,37
+S36,Jane Taylor,C101,Blockchain Basics,2024-02-08,30
+S10,Chris Young,C101,Blockchain Basics,2024-04-01,13
+S76,Alex Taylor,C107,Big Data Analytics,2024-01-15,5
+S6,Anna Johnson,C110,Artificial Intelligence,2024-02-14,9
+S87,Alex Lee,C108,Mobile App Development,2024-05-29,16
+S22,Alex Hall,C101,Blockchain Basics,2024-04-19,37
+S39,Emily Brown,C102,Web Development,2024-04-11,45
+S57,David Taylor,C109,Cybersecurity,2024-02-23,6
+S39,Emily Brown,C105,Python Programming,2024-01-09,16
+S65,Sarah Clark,C104,Blockchain Basics,2024-05-24,12
+S60,Chris Johnson,C105,Python Programming,2024-01-27,6
+S58,John Smith,C101,Blockchain Basics,2024-02-27,36
+S46,Emily Taylor,C109,Cybersecurity,2024-02-14,37
+S99,John Allen,C109,Cybersecurity,2024-03-10,48
+S9,Alex Brown,C108,Mobile App Development,2024-01-20,13
+S94,Chris Wilson,C110,Artificial Intelligence,2024-05-18,31
+S88,Chris Taylor,C103,Blockchain Basics,2024-04-05,2
+S26,Laura Hall,C102,Web Development,2024-04-22,21
+S28,Jane Young,C108,Mobile App Development,2024-03-06,28
+S97,Anna Johnson,C107,Big Data Analytics,2024-02-07,25
+S51,Anna Wilson,C107,Big Data Analytics,2024-05-27,42
+S39,Emily Brown,C109,Cybersecurity,2024-02-19,28
+S57,David Taylor,C109,Cybersecurity,2024-01-11,23
+S78,Sarah Brown,C101,Blockchain Basics,2024-05-03,32
+S2,Chris Smith,C104,Blockchain Basics,2024-01-12,49
+S47,Sarah Wilson,C103,Blockchain Basics,2024-05-10,40
+S2,Chris Smith,C104,Blockchain Basics,2024-01-22,49
+S13,Tom Allen,C106,Web Development,2024-04-20,41
+S13,Tom Allen,C106,Web Development,2024-01-17,41
+S78,Sarah Brown,C101,Blockchain Basics,2024-01-19,32
+S35,Anna Allen,C102,Web Development,2024-05-17,24
+S32,David Clark,C107,Big Data Analytics,2024-01-24,8
+S35,Anna Allen,C102,Web Development,2024-05-28,24
+S57,David Taylor,C109,Cybersecurity,2024-03-20,23
+S47,Sarah Wilson,C103,Blockchain Basics,2024-05-07,40
+S32,David Clark,C107,Big Data Analytics,2024-03-19,8
+S91,Laura Young,C110,Artificial Intelligence,2024-02-10,4
+S51,Anna Wilson,C107,Big Data Analytics,2024-04-10,42
+S39,Emily Brown,C109,Cybersecurity,2024-03-06,28
+S35,Anna Allen,C102,Web Development,2024-01-13,24
+S57,David Taylor,C109,Cybersecurity,2024-02-23,23
+S91,Laura Young,C110,Artificial Intelligence,2024-01-16,4
